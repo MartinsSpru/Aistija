@@ -126,3 +126,13 @@ nav{
     .navbarbuttons a:hover{
     background-color: #ffc43b;
     }
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #ffd05e;
+        color: #191500;
+        text-align: center;
+        font-size: 5px;
+    }

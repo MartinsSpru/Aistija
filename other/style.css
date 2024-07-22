@@ -139,3 +139,9 @@ nav{
         margin-bottom: 0px;
         margin-top: 0px;
     }
+/* website optimisation for diffrent screen sizes */
+@media only screen and (max-width: 1380px) {
+    nav{
+        width: 100%;
+    }
+}

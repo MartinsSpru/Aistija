@@ -35,6 +35,7 @@ nav{
 
 .lang-menu{
     margin-top: 25px;
+    position: relative;
 }
 
 .selectedlang{

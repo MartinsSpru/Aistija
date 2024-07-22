@@ -16,7 +16,7 @@ a{
 }
 
 header{
-    background-color: gold;
+    background-color: #ffd05e;
     height: 110px;
     padding: 10px 0;
 }
@@ -28,7 +28,7 @@ header{
     width: 100px;
 }
 nav{
-    width: 960px;
+    width: 70%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -44,7 +44,7 @@ nav{
     display: flex;
     justify-content: space-between;
     width: 100px;
-    color: #333;
+    color: #191500;
 }
 .selectedlang:before{
     content: '';
@@ -56,8 +56,8 @@ nav{
 .lang-menu ul{
     margin: 0;
     padding: 0;
-    background-color: aliceblue;
-    border: 1px solid #f8f8f8;
+    background-color: #ffc43b;
+    border: 1px solid #f5bb34;
     box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
     display: none;
@@ -76,7 +76,7 @@ nav{
     padding: 5px 10px;
 }
 .lang-menu ul li a:hover{
-    background-color: #f2f2f2;
+    background-color: #dfa92d;
 
 }
 .lang-menu ul li a:before{
@@ -102,7 +102,7 @@ nav{
 }
 .navbarbuttons ul{
     list-style-type: none;
-    background-color:#e7a400;
+    background-color:#ffd05e;
     padding: 0px;
     margin: 0px; 
     overflow: hidden;
@@ -113,13 +113,14 @@ nav{
         padding: 0;
     }
     .navbarbuttons a{
-    color:white;
+    color:#191500;
     text-decoration: none;
-    padding: 15px;
+    padding: 35px;
     display: inline-block;
     text-align: center;
     font-size: 20px;
+    font-weight: 420;
     }
     .navbarbuttons a:hover{
-    background-color: #c78f00;
+    background-color: #ffc43b;
     }

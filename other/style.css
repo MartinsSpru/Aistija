@@ -65,7 +65,7 @@ nav{
     display: none;
     position: absolute;
     top: 40px;
-    left: 0;
+    right: 0;
 }
 .lang-menu ul li{
     list-style: none;
@@ -143,5 +143,10 @@ nav{
 @media only screen and (max-width: 1380px) {
     nav{
         width: 92%;
+    }
+}
+@media only screen and (max-width: 1206px) {
+    nav{
+        width: 100%;
     }
 }

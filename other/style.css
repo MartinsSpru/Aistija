@@ -57,6 +57,10 @@ nav{
     border: 1px solid #f8f8f8;
     box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 0;
 }
 .lang-menu ul li{
     list-style: none;
@@ -90,4 +94,7 @@ nav{
 }
 .lt::before{
     background-image: url(https://flagsapi.com/LT/shiny/32.png);
+}
+.lang-menu:hover ul{
+    display: block;
 }

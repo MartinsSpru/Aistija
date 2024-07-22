@@ -78,3 +78,13 @@ nav{
     height: 32px;
     background-image: url(https://flagsapi.com/GB/shiny/32.png);
 }
+
+.en::before{
+    background-image: url(https://flagsapi.com/GB/shiny/32.png);
+}
+.lv::before{
+    background-image: url(https://flagsapi.com/LV/shiny/32.png);
+}
+.lt::before{
+    background-image: url(https://flagsapi.com/LT/shiny/32.png);
+}

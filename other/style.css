@@ -15,6 +15,9 @@ main{
     color: #191500;
     text-align: center;
 }
+main img{
+    width: 100%;
+}
 a{
     text-decoration: none;
     color: #191500;

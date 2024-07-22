@@ -87,13 +87,13 @@ nav{
     background-image: url(https://flagsapi.com/GB/shiny/32.png);
 }
 
-.en::before{
+.en:before{
     background-image: url(https://flagsapi.com/GB/shiny/32.png);
 }
-.lv::before{
+.lv:before{
     background-image: url(https://flagsapi.com/LV/shiny/32.png);
 }
-.lt::before{
+.lt:before{
     background-image: url(https://flagsapi.com/LT/shiny/32.png);
 }
 .lang-menu:hover ul{

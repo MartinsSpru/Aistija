@@ -43,6 +43,7 @@ nav{
     display: flex;
     justify-content: space-between;
     width: 100px;
+    color: #333;
 }
 .selectedlang:before{
     content: '';

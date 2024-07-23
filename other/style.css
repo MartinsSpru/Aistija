@@ -11,6 +11,9 @@ body{
 main{
     margin-left: 25%;
     margin-right: 25%;
+    text-align: center;
+}
+main p{
     font-size: 20px;
     color: #191500;
     text-align: center;

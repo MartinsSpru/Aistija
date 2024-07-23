@@ -81,6 +81,34 @@ nav{
     height: 32px;
     background-image: url(https://flagsapi.com/GB/shiny/32.png);
 }
+.selectedlanglv{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    color: #191500;
+}
+.selectedlanglv:before{
+    content: '';
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-image: url(https://flagsapi.com/LV/shiny/32.png);
+}
+.selectedlanglt{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    color: #191500;
+}
+.selectedlanglt:before{
+    content: '';
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-image: url(https://flagsapi.com/LT/shiny/32.png);
+}
 .lang-menu ul{
     margin: 0;
     padding: 0;

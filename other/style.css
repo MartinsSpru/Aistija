@@ -151,7 +151,7 @@ nav{
     }
     .grid-container {
         display: grid;
-        grid-template-columns: auto auto auto;
+        grid-template-columns: auto;
         padding: 10px;
       }
       .grid-item {
@@ -293,10 +293,5 @@ nav{
         text-align: center;
         font-weight: 420;
         }
-        .grid-container {
-            display: grid;
-            grid-template-columns: auto;
-            padding: 10px;
-          }
 }
 /* website optimisation for diffrent screen sizes */

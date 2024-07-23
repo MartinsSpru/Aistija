@@ -24,6 +24,9 @@ main h1{
     text-align: center;
     font-weight: 450;
 }
+.contactpadge img{
+    width: 50%;
+}
 main img{
     width: 100%;
 }

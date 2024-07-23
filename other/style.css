@@ -31,6 +31,7 @@ main img{
     width: 50%;
 }
 hr{
+    height: 1px;
     background-color: #ffd05e;
     border: none;
 }

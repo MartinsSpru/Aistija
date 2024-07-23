@@ -191,6 +191,14 @@ nav{
         font-size: 20px;
         font-weight: 420;
         }
+    main{
+        margin-left: 15%;
+        margin-right: 15%;
+        font-size: 20px;
+        color: #191500;
+        text-align: center;
+        font-weight: 420;
+        }
 }
 @media only screen and (max-width: 819px) {
     .navbarbuttons a{
@@ -202,6 +210,14 @@ nav{
         font-size: 20px;
         font-weight: 420;
         }
+        main{
+            margin-left: 15%;
+            margin-right: 15%;
+            font-size: 20px;
+            color: #191500;
+            text-align: center;
+            font-weight: 420;
+            }
 }
 @media only screen and (max-width: 767px) {
     .navbarbuttons a{
@@ -219,6 +235,14 @@ nav{
     .logo img{
         width: 70px;
     }
+    main{
+        margin-left: 15%;
+        margin-right: 15%;
+        font-size: 20px;
+        color: #191500;
+        text-align: center;
+        font-weight: 420;
+        }
 }
 @media only screen and (max-width: 739px) {
     .navbarbuttons a{
@@ -236,8 +260,16 @@ nav{
     .logo img{
         width: 70px;
     }
+    main{
+        margin-left: 15%;
+        margin-right: 15%;
+        font-size: 20px;
+        color: #191500;
+        text-align: center;
+        font-weight: 420;
+        }
 }
-@media only screen and (max-width: 405px) {
+@media only screen and (max-width: 500px) {
     .navbarbuttons a{
         color:#191500;
         text-decoration: none;
@@ -253,5 +285,18 @@ nav{
     .logo img{
         width: 60px;
     }
+    main{
+        margin-left: 5%;
+        margin-right: 5%;
+        font-size: 20px;
+        color: #191500;
+        text-align: center;
+        font-weight: 420;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: auto;
+            padding: 10px;
+          }
 }
 /* website optimisation for diffrent screen sizes */
